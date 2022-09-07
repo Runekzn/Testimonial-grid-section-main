@@ -1,4 +1,4 @@
-#Ejecutar el comando npm install para instalar todas las dependencias existentes de
+# Ejecutar el comando npm install para instalar todas las dependencias existentes de
 ntro del programa
 
 # TetimonialGridSectionMain
