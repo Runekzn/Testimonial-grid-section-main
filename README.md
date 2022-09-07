@@ -1,3 +1,6 @@
+#Ejecutar el comando npm install para instalar todas las dependencias existentes de
+ntro del programa
+
 # TetimonialGridSectionMain
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
